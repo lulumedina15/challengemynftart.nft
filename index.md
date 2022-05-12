@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://challengemynftart.nft) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/challengemynftart.nft) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-# 
+#challengemynftart.nft 
 ## 
 ###### 
 # Header 1
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](urlchallengemynftart.nft) and ![Image](srcchallengemynftart.nft)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
