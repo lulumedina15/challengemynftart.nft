@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url challengemynftart.nft 0x52526ed18d8d1d67081174f95098da2dfdde4f9d) and ![Image](srchttps://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/37235299884773756166993476003015444057254974313228306748294592831836022374401/)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
